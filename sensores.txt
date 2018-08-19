@@ -3,3 +3,9 @@ y al variar esta magnitud también varia con cierta intensidad la propiedad
 es decir
 manifiesta la presencia de dicha magnitud
 y también su medida. 
+
+Los sensores capacitivos reaccionan ante metales, 
+y no metales que al aproximarse a la superficie activa
+sobrepasan una determinada capacidad.
+La distancia de conexión respecto a un determinado material es
+tanto mayor cuanto más elevada sea su constante dieléctrica. 
