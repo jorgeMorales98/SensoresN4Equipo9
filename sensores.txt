@@ -1,0 +1,5 @@
+Un sensor es todo aquello que tiene una propiedad sensible a una magnitud del medio
+y al variar esta magnitud también varia con cierta intensidad la propiedad
+es decir
+manifiesta la presencia de dicha magnitud
+y también su medida. 
