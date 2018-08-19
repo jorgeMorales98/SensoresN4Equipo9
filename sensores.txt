@@ -4,6 +4,8 @@ es decir
 manifiesta la presencia de dicha magnitud
 y también su medida. 
 
+Sensores capacitivos
+
 Los sensores capacitivos reaccionan ante metales, 
 y no metales que al aproximarse a la superficie activa
 sobrepasan una determinada capacidad.
