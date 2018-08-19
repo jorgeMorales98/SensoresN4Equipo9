@@ -7,5 +7,5 @@ y también su medida.
 Los sensores capacitivos reaccionan ante metales, 
 y no metales que al aproximarse a la superficie activa
 sobrepasan una determinada capacidad.
-La distancia de conexión respecto a un determinado material es
+La distancia de conexión respecto a determinado material es
 tanto mayor cuanto más elevada sea su constante dieléctrica. 
