@@ -11,3 +11,12 @@ y no metales que al aproximarse a la superficie activa
 sobrepasan una determinada capacidad.
 La distancia de conexión respecto a determinado material es
 tanto mayor cuanto más elevada sea su constante dieléctrica. 
+
+Los sensores inductivos son una clase especial de sensores 
+que sirve para detectar materiales ferrosos. 
+
+Son de gran utilización en la industria,
+tanto para aplicaciones de posicionamiento 
+como para detectar la presencia
+o ausencia de objetos metálicos en un determinado 
+contexto: detección de paso, de atasco, de codificación y de conteo.
